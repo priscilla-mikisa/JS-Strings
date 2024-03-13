@@ -1,6 +1,6 @@
 //Quastion1
 let a = "extravaganza";
-let last = a.slice(8,12);
+let last = a.slice(8);
 console.log(last);
 //Question2
 const food = "The quick fox jumped over the lazy dog";
